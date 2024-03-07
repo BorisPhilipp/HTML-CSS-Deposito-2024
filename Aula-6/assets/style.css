@@ -7,6 +7,7 @@ header{
     background-color: #262217; 
 /*     background-image: url(fundo.png); */
     position: absolute;
+    padding-bottom: 80px;
 }
 
 #links img{
@@ -28,7 +29,7 @@ header{
 }
 
 .area_anuncio{
-    padding: 85px 140px;
+    padding: 75px 140px;
     position: relative;
 }
 
